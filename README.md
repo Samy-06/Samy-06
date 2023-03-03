@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samy-06
-- 👀 I’m interested in ...Web and app development, Machine Learning and AI, and blockchain technology
-- 🌱 I’m currently learning ...Javascript
+- 👀 I’m interested in ...Non Linear Dynamics and Chaos, Quantum Computing and Blockchain technology. 
+- 🌱 I’m currently learning about Hausdorff measures, generalized Cantor sets, and quantum computing. 
 - 📫 You can reach me on my linkedin www.linkedin.com/in/samyak-parashar .
 
 <!---
