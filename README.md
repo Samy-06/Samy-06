@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Samy-06
-- 👀 I’m interested in ...Non Linear Dynamics and Chaos, Quantum Computing and Blockchain technology. 
-- 🌱 I’m currently learning about Hausdorff measures, generalized Cantor sets, and quantum computing. 
+- 👋 Hi, I am Samyak Parashar. I am a fourth year mathematics major at IISER Bhopal. 
+- 👀 I’m interested in algebraic number theory, commutative algebra and modular forms. 
+- 🌱 I’m currently learning about modular forms. 
 - 📫 You can reach me on my linkedin www.linkedin.com/in/samyak-parashar .
 
 <!---
